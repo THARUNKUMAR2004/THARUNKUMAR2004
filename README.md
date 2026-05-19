@@ -47,7 +47,4 @@ Java desktop application with authentication, attendance tracking, CRUD operatio
 
 ---
 
-# 📫 Connect With Me
-
-- LinkedIn: Add Your LinkedIn Link
-- Portfolio: Coming Soon
+ 
